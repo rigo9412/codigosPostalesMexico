@@ -1,0 +1,5 @@
+un campo de texto pedir un codigo postal 
+y en otro se llene automaticamen con la ciudad
+
+-guardar en una base de datos 
+-tabla zipcodes {zip(id), ciudad}
